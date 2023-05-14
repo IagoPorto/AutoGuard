@@ -348,7 +348,6 @@ public class FaceMeshResultGlRenderer implements ResultGlRenderer<FaceMeshResult
 
             //Measures
             pitch = Math.atan2((mid_eye_y - nose_tip_y) / reference, (mid_eye_z - nose_tip_z) / reference) * 180 / Math.PI;
-            System.out.println("DEBUG!!!!!!!!! --> El valor del pitch es:" + pitch + "\n");
             roll = Math.atan2((mid_eye_x - nose_tip_x) / reference, (mid_eye_z - nose_tip_z) / reference) * 180 / Math.PI;
             yaw = Math.atan2((left_ear_y - right_ear_y) / reference, (left_ear_x - right_ear_x) / reference) * 180 / Math.PI;
 
