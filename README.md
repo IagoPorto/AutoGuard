@@ -11,7 +11,7 @@ AutoGuard is an Android application designed to detect distractions and drowsine
 
 - **[MediaPipe](https://mediapipe.dev/)**: Real-time facemesh implementation for facial detection.
 - **[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)**: Charting library for visualizing distraction statistics.
-- **Java/Kotlin**: Native Android development.
+- **Java**: Native Android development.
 
   ![Tecnologies](./pictures/tecnoloxías.png)
 
