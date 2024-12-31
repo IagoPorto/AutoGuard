@@ -39,6 +39,12 @@ AutoGuard is an Android application designed to detect distractions and drowsine
   <img src="./pictures/estadisticas2.jpg" alt="Statistics 2" width="30%">
 </p>
 
+### Project presentation
+<p align="center">
+  <img src="./pictures/presentation.jpg" alt="Presentation 1" width="30%">
+  <img src="./pictures/presentation2.jpg" alt="Presentation 2" width="30%">
+</p>
+
 ---
 
 ## 📈 How It Works
